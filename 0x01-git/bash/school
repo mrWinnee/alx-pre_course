@@ -1,3 +1,2 @@
 #!bin/bash
-echo "the school is open!"
-sleep 1
+"The school is open!"
